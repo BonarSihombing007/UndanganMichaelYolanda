@@ -30,8 +30,13 @@ body::-webkit-scrollbar {
     display: none;
 }
 
+.font-estheticwelcome {
+    font-family: 'Californian FB' !important;
+    color: #111111 !important;
+}
+
 .font-esthetic {
-    font-family: 'Sacramento', cursive !important;
+    font-family: 'News701 BT', cursive !important;
     color: #111111 !important;
 }
 
